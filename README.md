@@ -1,2 +1,2 @@
 # belajar-go-pertama
-# Hello World Doang
+Hello World Doang
